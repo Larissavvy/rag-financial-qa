@@ -1,4 +1,4 @@
-# 💼 Financial Document RAG — Production Q&A Pipeline
+# Financial Document RAG — Production Q&A Pipeline
 
 > Production-grade Retrieval-Augmented Generation system for financial document Q&A. Built with LangChain + FAISS + GPT-4o, with a full evaluation suite measuring faithfulness, answer relevancy, and context precision.
 
